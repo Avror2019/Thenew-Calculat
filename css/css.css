@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+    width: 30%;
+}
+
+button {
+    background-color: aqua;
+}
+
+.result {
+   width: 100%;
+}
+
+button:active {
+    background-color: blue;
+}
+
+input {
+    text-align: center;
+}
+
+.button_active {
+    display: flex;
+    flex-direction: column;
+}
